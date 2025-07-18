@@ -4,6 +4,9 @@ This project provides an in-depth explanation of Shor's Algorithm, starting from
 
 ## Overview
 
+- bullet point 1
+* bullet point 2
+
 Shor's Algorithm is a quantum algorithm that efficiently factors large integers. It is based on the principle that quantum computers can perform certain operations much faster than classical computers, providing a polynomial-time solution to the problem of integer factorization, which is otherwise considered intractable for large numbers.
 
 This project walks you through the following topics:
